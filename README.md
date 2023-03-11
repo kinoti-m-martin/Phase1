@@ -17,6 +17,7 @@ Microsoft is intending to venture into a corporate-level product diversification
 Data analysis was done on Jupyter Notebook, using the following libraries: -Sqlite3
                                                                             -Pandas
                                                                             -Matplotlib
+                                                                            -Seaborn
 The ptocedure followed was:
 - Importing and reading the files for analysis.
 - Exploratory Data Analysis(EDA) was done to determine the data structures involved.
@@ -39,8 +40,8 @@ This repository contains the following folders, and particular contents:
 - gitignore file: Contains the extentions of the files not included in the repository, and irrelevant for the results      presented.
 
 The data sources used in data analysis are:
-        - https://www.boxofficemojo.com/
-        - https://www.imdb.com/
-        - https://www.rottentomatoes.com/
-        - https://www.themoviedb.org/
-        - https://www.the-numbers.com/
+        * [Box Office Mojo](https://www.boxofficemojo.com/)
+        * [IMDB](https://www.imdb.com/)
+        * [Rotten Tomatoes](https://www.rottentomatoes.com/)
+        * [TheMovieDB](https://www.themoviedb.org/)
+        * [The Numbers](https://www.the-numbers.com/)
