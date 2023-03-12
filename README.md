@@ -1,26 +1,26 @@
 # Phase1 Project
 This project entails the following: 
--Overview of the project
--Business problem
--Data analysis
--Findings
--Conclusion
--Recommendations
+*Overview of the project
+*Business problem
+*Data analysis
+*Findings
+*Conclusion
+*Recommendations
 # Overview of the Project
 The main objective of this project is to determine the best movies Microsoft company can adopt as a start-up, by drawing insigts from the data from: 
--IMDB
--Box Office Mojo
--Rotten Tomatoes
--The MovieDB
--The Numbers
+*IMDB
+*Box Office Mojo
+*Rotten Tomatoes
+*The MovieDB
+*The Numbers
 # Problem Statement
 Microsoft is intending to venture into a corporate-level product diversification, by creating a new movie studio, which will incorporate production, and marketing of movies. The company however lacks insights on the best approach to undertake this business, thereby undertaking this project.
 # Data Analysis
 Data analysis was done on Jupyter Notebook, using the following libraries: 
--Sqlite3
--Pandas
--Matplotlib
--Seaborn
+*Sqlite3
+*Pandas
+*Matplotlib
+*Seaborn
 The ptocedure followed was:
 - Importing and reading the files for analysis.
 - Exploratory Data Analysis(EDA) was done to determine the data structures involved.
@@ -42,6 +42,8 @@ This repository contains the following folders, and particular contents:
 - student.ipynb: This is the Jupyter Notebook that has the details on the procedure undertaken in data analysis, inclusive of results and visualizations.
 - gitignore file: Contains the extentions of the files not included in the repository, and irrelevant for the results presented.
 - Data: This is the data on the movie studios globally, obtained from movie websites. This is the data that was used in the analysis.
+- Movie_data_erd.jpeg: This is the diagramatic presentation of data on the database, for the IMDB dataset.
+- Presentation.pdf: This entails the presentation on the findings from data analysis, and recommendations.
 
 The data sources used in data analysis are:
 * [Box Office Mojo](https://www.boxofficemojo.com/)
